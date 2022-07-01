@@ -14,7 +14,7 @@ Hello you 😁​
 
 ## Sobre mim :
 
-Olá meu nome é Francisco A.K.A ( Thiago ) tenho 19 anos morador do complexo da maré - Rio de Janeiro , estudante de programação com grande interesse em Front-end e Web design. Atualmente aluno do programa Recode Pro 2022. Futuramente pretendo fazer faculdade de ciência da computação mas no momento eu tento fazer algumas coisas legais e bonitas com programação. 👨‍🎓💻
+Olá meu nome é Thiago tenho 19 anos morador do complexo da maré - Rio de Janeiro , estudante de programação com grande interesse em Front-end e Web design. Atualmente aluno do programa Recode Pro 2022. Futuramente pretendo fazer faculdade de ciência da computação mas no momento eu tento fazer algumas coisas legais e bonitas com programação. 👨‍🎓💻
 
 ## About me :
 
