@@ -20,19 +20,33 @@ Olá meu nome é Thiago morador do complexo da maré - Rio de Janeiro , estudant
 
 Hi my name is Thiago, I live in Rio de Janeiro, and i'm a programing student with great interest in Front-end and Web design. In the future i'am planing to go to college for computer science, but right now i'm trying to do some cool and beatiful stuff with programing. 👨‍🎓💻
 
+- 📧 Email: fthiagorodrigues10@gmail.com
 
-## Assuntos que estou estudando atualmente 
+## Assuntos que estou estudando atualmente:
+   (Techs i'm studying)
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Figma
-- UX Design
-- UI Design
-
-<br>
-<br>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-th-rodrigues/)]
+ <div style="display: inline_block"><br>
+    <img align="center" alt="Thiago-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Thiago-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Thiago-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Thiago-REDUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    <img align="center" alt="Thiago-NEXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+    <img align="center" alt="Thiago-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
+    <img align="center" alt="Thiago-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+  </div>
   
+
+<div>
+  <a href="https://github.com/CiscoFran10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiscoFran10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiscoFran10&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  
+<div>
+   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/francisco-th-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
