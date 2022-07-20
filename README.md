@@ -14,11 +14,11 @@ Hello you 😁​
 
 ## Sobre mim :
 
-Olá meu nome é Thiago tenho 19 anos morador do complexo da maré - Rio de Janeiro , estudante de programação com grande interesse em Front-end e Web design. Atualmente aluno do programa Recode Pro 2022. Futuramente pretendo fazer faculdade de ciência da computação mas no momento eu tento fazer algumas coisas legais e bonitas com programação. 👨‍🎓💻
+Olá meu nome é Thiago morador do complexo da maré - Rio de Janeiro , estudante de programação com grande interesse em Front-end e Web design. Atualmente aluno da Kenzie Academy. Futuramente pretendo fazer faculdade de ciência da computação mas no momento eu tento fazer algumas coisas legais e bonitas com programação. 👨‍🎓💻
 
 ## About me :
 
-Hi my name is Francisco A.K.A ( Thiago ) i'm 19 years old, I live in Rio de Janeiro, and i'm a programing student with great interest in Front-end and Web design. In the future i'am planing to go to college for computer science, but right i'm trying to do some cool and beatiful stuff with programing. 👨‍🎓💻
+Hi my name is Thiago, I live in Rio de Janeiro, and i'm a programing student with great interest in Front-end and Web design. In the future i'am planing to go to college for computer science, but right now i'm trying to do some cool and beatiful stuff with programing. 👨‍🎓💻
 
 
 ## Assuntos que estou estudando atualmente 
@@ -34,5 +34,5 @@ Hi my name is Francisco A.K.A ( Thiago ) i'm 19 years old, I live in Rio de Jane
 <br>
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/CiscoFran10)](www.linkedin.com/in/francisco-th-rodrigues)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-th-rodrigues/)]
   
