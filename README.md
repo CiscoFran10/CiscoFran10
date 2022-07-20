@@ -20,7 +20,12 @@ Olá meu nome é Thiago morador do complexo da maré - Rio de Janeiro , estudant
 
 Hi my name is Thiago, I live in Rio de Janeiro, and i'm a programing student with great interest in Front-end and Web design. In the future i'am planing to go to college for computer science, but right now i'm trying to do some cool and beatiful stuff with programing. 👨‍🎓💻
 
-- 📧 Email: fthiagorodrigues10@gmail.com
+<br>
+
+📧 Email: fthiagorodrigues10@gmail.com
+
+<br>
+<br>
 
 ## Assuntos que estou estudando atualmente:
    (Techs i'm studying)
@@ -37,15 +42,19 @@ Hi my name is Thiago, I live in Rio de Janeiro, and i'm a programing student wit
     <img align="center" alt="Thiago-NEXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
     <img align="center" alt="Thiago-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
     <img align="center" alt="Thiago-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-  </div>
-  
+</div>
+
+<br>
+<br>
+<br>
 
 <div>
   <a href="https://github.com/CiscoFran10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiscoFran10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiscoFran10&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+<br>
+<br>
   
 <div>
    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/francisco-th-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
