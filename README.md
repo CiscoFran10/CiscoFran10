@@ -1,7 +1,6 @@
 <h4 align="center">
   
-<iframe src='https://media.tenor.com/tKUCkoF74OcAAAAd/raining-future.gif' width='640' height='383'></iframe>
-
+<img src="https://media.tenor.com/tKUCkoF74OcAAAAd/raining-future.gif" width="800" height="300" />
 <hr>
   
 </h4>
