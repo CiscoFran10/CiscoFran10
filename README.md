@@ -14,7 +14,7 @@ Hello you 😁​
 
 ## Sobre mim :
 
-Olá meu nome é Thiago morador do complexo da maré - Rio de Janeiro , estudante de programação com grande interesse em Front-end e Web design. Atualmente aluno da Kenzie Academy. Futuramente pretendo fazer faculdade de ciência da computação mas no momento eu tento fazer algumas coisas legais e bonitas com programação. 👨‍🎓💻
+Olá meu nome é Thiago morador do Rio de Janeiro , estudante de programação com grande interesse em Front-end e Web design. Atualmente aluno da Kenzie Academy. Futuramente pretendo fazer faculdade de ciência da computação mas no momento eu tento fazer algumas coisas legais e bonitas com programação. 👨‍🎓💻
 
 ## About me :
 
@@ -41,7 +41,6 @@ Hi my name is Thiago, I live in Rio de Janeiro, and i'm a programing student wit
     <img align="center" alt="Thiago-REDUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
     <img align="center" alt="Thiago-NEXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
     <img align="center" alt="Thiago-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
-    <img align="center" alt="Thiago-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 </div>
 
 <br>
@@ -50,8 +49,8 @@ Hi my name is Thiago, I live in Rio de Janeiro, and i'm a programing student wit
 
 <div style:"display: inline_block">
   <a href="https://github.com/CiscoFran10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiscoFran10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em width="30em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiscoFran10&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-ciscofran.vercel.app/api?username=CiscoFran10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em width="30em" src="https://github-readme-stats-ciscofran.vercel.app/api/top-langs/?username=CiscoFran10&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 <br>
