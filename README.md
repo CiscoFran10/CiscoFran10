@@ -49,8 +49,8 @@ Hi my name is Thiago, I live in Rio de Janeiro, and i'm a programing student wit
 
 <div style:"display: inline_block">
   <a href="https://github.com/CiscoFran10">
-  <img height="180em" src="https://github-readme-stats-ciscofran.vercel.app/api?username=CiscoFran10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em width="30em" src="https://github-readme-stats-ciscofran.vercel.app/api/top-langs/?username=CiscoFran10&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CiscoFran10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em width="30em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CiscoFran10&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 <br>
