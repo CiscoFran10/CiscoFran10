@@ -14,13 +14,11 @@ Hello you 😁​
 
 ## Sobre mim :
 
-Olá meu nome é Thiago morador do Rio de Janeiro , estudante de programação com grande interesse em Front-end e Web design. Atualmente aluno da Kenzie Academy. Futuramente pretendo fazer faculdade de ciência da computação mas no momento eu tento fazer algumas coisas legais e bonitas com programação. 👨‍🎓💻
+Olá, sou um desenvolvedor front-end apaixonado por tecnologia e design. Acredito que a combinação da criatividade com o conhecimento técnico é fundamental para construir interfaces incríveis e fáceis de usar.
 
-## About me :
+Meu objetivo é sempre entregar produtos de alta qualidade e garantir a satisfação dos clientes. Trabalho com tecnologias modernas para criar experiências de usuário únicas e atraentes. Além disso, estou sempre em busca de novos desafios e oportunidades de aprendizado. 
 
-Hi my name is Thiago, I live in Rio de Janeiro, and i'm a programing student with great interest in Front-end and Web design. In the future i'am planing to go to college for computer science, but right now i'm trying to do some cool and beatiful stuff with programing. 👨‍🎓💻
-
-<br>
+Sinta-se à vontade para explorar meus projetos e entrar em contato comigo se precisar de ajuda com desenvolvimento front-end.
 
 📧 Email: fthiagorodrigues10@gmail.com
 
@@ -28,8 +26,6 @@ Hi my name is Thiago, I live in Rio de Janeiro, and i'm a programing student wit
 <br>
 
 ## Assuntos que estou estudando atualmente:
-   (Techs i'm studying)
-
  <div style="display: inline_block"><br>
     <img align="center" alt="Thiago-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
